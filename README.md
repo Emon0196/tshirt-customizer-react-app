@@ -1,8 +1,11 @@
-# React + Vite
+# T-Shirt-Customizer-App
+This is a simple React.js app for customizing T-Shirts with different logo designs and download the T-Shirt designs as png format images.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The features of this app is given below:
 
-Currently, two official plugins are available:
+- The system enables users to position the logos anywhere on the t-shirt image.
+- The Users can drag and drop the logo on the input box.
+- The logo will resize, maintaining the same aspect ratio automatically.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Preview Link: 
+https://tshirt-customizer-react-app.vercel.app/
